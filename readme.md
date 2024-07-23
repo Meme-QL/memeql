@@ -4,6 +4,10 @@ Frontend: https://github.com/memeql/memeql-frontend
 
 Backend: https://github.com/memeql/memeql-backend
 
+Wireframe: <br>
+[App Design Plan A4 Brainstorm Classroom Worksheet.pdf](https://github.com/user-attachments/files/16354879/App.Design.Plan.A4.Brainstorm.Classroom.Worksheet.pdf)
+
+
 User Stories:<br>
 As a user, I want to be able to browse memes in this application to my hearts content.<br>
 As a user, I want to be able have an easy time navigating through the application.<br>
