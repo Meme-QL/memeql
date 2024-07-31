@@ -2,9 +2,9 @@
 
 MemeQL intends to be the premier destination for meme discovery and cataloging. With a UI that does as little as it can at all times, it will be clear that the goal is the content, not the application.
 
-Deployed application: https://memeql.konthecat.com
-Frontend: https://github.com/memeql/memeql-frontend
-Backend: https://github.com/memeql/memeql-backend
+Deployed application: https://memeql.konthecat.com<br>
+Frontend: https://github.com/memeql/memeql-frontend<br>
+Backend: https://github.com/memeql/memeql-backend<br>
 
 Wireframe: <br>
 
