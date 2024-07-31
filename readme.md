@@ -1,7 +1,9 @@
 # memeql
 
-Frontend: https://github.com/memeql/memeql-frontend
+MemeQL intends to be the premier destination for meme discovery and cataloging. With a UI that does as little as it can at all times, it will be clear that the goal is the content, not the application.
 
+Deployed application: https://memeql.konthecat.com
+Frontend: https://github.com/memeql/memeql-frontend
 Backend: https://github.com/memeql/memeql-backend
 
 Wireframe: <br>
@@ -12,9 +14,10 @@ Wireframe: <br>
 
 ![Screenshot_23-7-2024_17404_](https://github.com/user-attachments/assets/370b73fd-4738-441b-9100-33ed0daf89ea) <br>
 
-User Stories:<br>
-As a user, I want to be able to browse memes in this application to my hearts content.<br>
-As a user, I want to be able have an easy time navigating through the application.<br>
-As a user, I want to be able to find funny and new memes I may not have seen before.<br>
-As a user, I want to be able to relax and scroll through some memes.<br>
-As a user, I want to have the ability to search for a meme.<br>
+Pending user stories:<br>
+As a user, I need to be able to use the application in dark mode, the brightness burns.<br>
+As a user, I need to be able to search and user tags to discover content.<br>
+As an app owner, I need to have content moderation in place to prevent uploads of malicious content (this will be provided by Azure AI Content Safety).<br>
+As a user, I want to be able to share a link that takes my friend directly to a specific meme.<br>
+As a user, I want to use an already existing social login for MemeQL.<br>
+As a user, I do not want to write descriptions or tags, I should simply review the output of a generative AI.<br>
